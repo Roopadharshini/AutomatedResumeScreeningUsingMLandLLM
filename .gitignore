@@ -21,6 +21,7 @@ Thumbs.db
 
 # Pickle files
 *.pickle
+*.joblib
 
 # VSCode workspace settings (optional, personal)
 .vscode/
