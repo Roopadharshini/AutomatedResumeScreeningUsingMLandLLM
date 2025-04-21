@@ -198,14 +198,14 @@ st.markdown("""
 POSITION_OPTIONS = [
     "AI Engineer", "AI Researcher", "AR/VR Developer", "Blockchain Developer",
     "Business Analyst", "Cloud Architect", "Cloud Engineer", "Content Writer",
-    "Cybersecurity Analyst", "Cybersecurity Specialist", "Data Analyst",
+    "Cybersecurity Analyst",  "Data Analyst",
     "Data Architect", "Data Engineer", "Data Scientist", "Database Administrator",
     "DevOps Engineer", "Digital Marketing Specialist", "E-commerce Specialist",
-    "Full Stack Developer", "Game Developer", "Graphic Designer", "HR Specialist",
+    "Full Stack Developer", "Game Developer", "Graphic Designer", 
     "Human Resources Specialist", "IT Support Specialist", "Machine Learning Engineer",
     "Mobile App Developer", "Network Engineer", "Product Manager", "Project Manager",
     "QA Engineer", "Robotics Engineer", "Software Developer", "Software Engineer",
-    "System Administrator", "UI Designer", "UI Engineer", "UI/UX Designer", "UX Designer"
+    "System Administrator", "UI Designer", "UI Engineer", "UX Designer"
 ]
 
 # Initialize current requirements if none exist
